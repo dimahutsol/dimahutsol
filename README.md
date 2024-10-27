@@ -2,7 +2,7 @@
 
 I am a skilled Front-End developer with expertise in JavaScript, TypeScript, React, CSS, and HTML. I have successfully applied Agile/Scrum methodologies to deliver projects on time. I excel in a dynamic environment and learn new technologies quickly, motivated by a strong desire to grow. I stay calm under pressure, solve problems creatively, and focus on delivering practical, user-friendly solutions. As a non-confrontational and communicative team player, I value collaboration, welcome constructive feedback, and always strive to contribute positively to the success of my projects.
 
-📫: Reach me out!
+ ### Reach me out!📫
 
 ![Static Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdmytro-hutsol%2F)
 ![Static Badge](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white&labelColor=blue&link=https%3A%2F%2Ft.me%2Fdimadimah)
@@ -10,7 +10,7 @@ I am a skilled Front-End developer with expertise in JavaScript, TypeScript, Rea
 
 
 
-### Technologies
+### Technologies ⚛️
 
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -31,6 +31,7 @@ I am a skilled Front-End developer with expertise in JavaScript, TypeScript, Rea
 <a href="https://wordpress.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="wordpress" width="40" height="40"/> </a>
 </p>
 
+### Statistics ↗️
 
 <img align="left" width="47%" alt="Dima's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dimahutsol&show_icons=true&theme=vue" />
 
