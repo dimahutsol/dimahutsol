@@ -7,6 +7,9 @@ I am a skilled Front-End developer with expertise in JavaScript, TypeScript, Rea
 ![Static Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdmytro-hutsol%2F)
 ![Static Badge](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white&labelColor=blue&link=https%3A%2F%2Ft.me%2Fdimadimah)
 ![Static Badge](https://img.shields.io/badge/mail-red?style=flat&logo=gmail&logoColor=white&labelColor=red&link=https%3A%2F%2Ft.me%2Fdimadimah)
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdmytro-hutsol%2F&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdmytro-hutsol%2F)
+
+
 
 
 
