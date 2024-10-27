@@ -31,10 +31,7 @@ I am a skilled Front-End developer with expertise in JavaScript, TypeScript, Rea
 <a href="https://wordpress.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="wordpress" width="40" height="40"/> </a>
 </p>
 
-<br />
-<br />
 
-
-<img align="left" width="47%" alt="Dima's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dimahutsol&show_icons=true&theme=transparent" />
+<img align="left" width="47%" alt="Dima's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dimahutsol&show_icons=true&theme=vue" />
 
 <img align="right" width="47%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimahutsol&layout=compact" />
